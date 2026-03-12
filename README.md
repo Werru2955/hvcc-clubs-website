@@ -1,5 +1,7 @@
 #  💻 HVCC Club Catalogue
 
+ A website created by the HVCC Computer Science club to catalogue the clubs on campus.
+
 ## Setting up the app
 
 1. Within the main directory, create a Python virtual environment:<br>
@@ -11,7 +13,7 @@
 
 3. In the main directory, create a .flaskenv file with the following contents:<br>
     `FLASK_APP=app.py`
-    
+
 4. To start the flask application:<br>
     In debug mode: `flask run --debug`
 
